@@ -18,5 +18,6 @@ Classification was used to assess the relationship between qualification and mar
 We were looking to find an association of world cup performance into life, which required a high level of abstraction in our data and analysis. Observing patterns and connections in this way creates a creative inquisition which can illuminate new insights into a well-known problem space. Applications in sports psychology, coaching, and performance at the national level are numerous. Correlations between country markers and performance might expand sport psychologists approaches to help players develop a successful, out-of-the-box mindset.
 
 #### Link to the video demonstration:
-
+Press 'Present' near the upper right hand of the screen to start the presentation. Audio recordings will play as you move through the slideshow. 
+https://docs.google.com/presentation/d/152Pa6uadzQqI6hBybWmJrk5bHIK4pjDDHS6WmejMiu4/edit?usp=sharing
 #### Link to our final project paper:
