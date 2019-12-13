@@ -19,5 +19,8 @@ We were looking to find an association of world cup performance into life, which
 
 #### Link to the video demonstration:
 Press 'Present' near the upper right hand of the screen to start the presentation. Audio recordings will play as you move through the slideshow. 
+
 https://docs.google.com/presentation/d/152Pa6uadzQqI6hBybWmJrk5bHIK4pjDDHS6WmejMiu4/edit?usp=sharing
+
 #### Link to our final project paper:
+https://docs.google.com/document/d/1T0nO7SQDrtGW96Chbk8tGNXWwtx4F9N3_HQlpx88-6M/edit?usp=sharing
