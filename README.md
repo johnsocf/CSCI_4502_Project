@@ -3,8 +3,8 @@
 ### Exploring Relationships Between Country-Wide Health Markers and World Cup Performance
 
 Team members: 
-    Cat Johnson
-    Sabine Hollatz
+    Cat Johnson,
+    Sabine Hollatz,
     Greg Giordano
 
 #### Description of the project: 
